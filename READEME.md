@@ -1,0 +1,1 @@
+Questo è un gioco web semplice chiamato 'Cerca il Token'. I giocatori tentano la fortuna cliccando su un pulsante per vincere un token virtuale, con una probabilità di vittoria dell'1%."
